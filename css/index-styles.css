@@ -64,11 +64,24 @@ th, td {
 	padding: 10px;
 	color: white
 }
-h2{
+.velkommen{
 	font-size: 200%;
 	color: white
 }
 h1{
+	margin: 10px;
 	color: white
 }
-
+h2{
+	margin: 20px;
+	color: white
+}
+.mig{
+    position: fixed;
+    height: 0;
+    right: 0;
+    width: 250px;
+}
+.link{
+	color: white
+}
